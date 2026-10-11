@@ -394,7 +394,7 @@ else:
 - Один временной holdout; несколько rolling folds и производственная устойчивость ещё не исследованы.
 - Оценены только полные блоки с наблюдаемой целью. Пропуски могут создавать смещение выборки.
 - Bootstrap и importance имеют ограничения выборки; причинные эффекты и финансовая экономия не установлены.
-- Dockerfile подготовлен; контейнерный запуск и облачная публикация отдельно не проверены.
+- Приложение опубликовано в [Streamlit Community Cloud](https://gridscope-electricity-forecasting.streamlit.app/). Dockerfile подготовлен; контейнерный запуск отдельно не проверен.
 """)
     with tabs[3]:
         st.markdown("[Датасет на Kaggle](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather) · [Red Eléctrica](https://www.ree.es/en/operation/electricity-system/demand-and-production-curves-in-real-time) · [Hong & Fan, 2016](https://www.sciencedirect.com/science/article/pii/S0169207015001508)")
