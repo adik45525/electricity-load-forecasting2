@@ -1,0 +1,12 @@
+.venv
+.venv-*
+.git
+__pycache__
+.pytest_cache
+.cache
+.cloud-check
+publication
+.env
+.env.*
+.streamlit/secrets.toml
+models/*.pkl

@@ -1,0 +1,8 @@
+streamlit==1.65.0
+pandas==3.0.6
+numpy==2.5.4
+catboost==1.2.10
+plotly==7.1.0
+holidays==0.106
+scipy==1.18.1
+matplotlib==3.11.2
