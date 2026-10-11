@@ -1,0 +1,298 @@
+[
+  {
+    "model": "Ridge",
+    "scenario": "calendar",
+    "parameters": {
+      "alpha": 10.0
+    },
+    "MAE": 2112.6742839026915,
+    "RMSE": 2835.8499274664587,
+    "MAPE": 7.371375207295946,
+    "sMAPE": 7.333973182064321
+  },
+  {
+    "model": "Ridge",
+    "scenario": "calendar",
+    "parameters": {
+      "alpha": 1000.0
+    },
+    "MAE": 2108.2159749025277,
+    "RMSE": 2830.149727414279,
+    "MAPE": 7.344376490322565,
+    "sMAPE": 7.310599917758331
+  },
+  {
+    "model": "Random Forest",
+    "scenario": "calendar",
+    "parameters": {
+      "n_estimators": 100,
+      "max_depth": 14,
+      "min_samples_leaf": 4
+    },
+    "MAE": 1851.5084103275935,
+    "RMSE": 2627.0280028224633,
+    "MAPE": 6.392016028037441,
+    "sMAPE": 6.4140002463640915
+  },
+  {
+    "model": "Random Forest",
+    "scenario": "calendar",
+    "parameters": {
+      "n_estimators": 100,
+      "max_depth": 22,
+      "min_samples_leaf": 2
+    },
+    "MAE": 1870.2337006305165,
+    "RMSE": 2717.7245744066927,
+    "MAPE": 6.45108789439767,
+    "sMAPE": 6.470048526278337
+  },
+  {
+    "model": "CatBoost",
+    "scenario": "calendar",
+    "parameters": {
+      "iterations": 650,
+      "depth": 6,
+      "learning_rate": 0.06
+    },
+    "MAE": 1966.5932128933418,
+    "RMSE": 2719.219935966888,
+    "MAPE": 6.839585094458241,
+    "sMAPE": 6.822016959747014
+  },
+  {
+    "model": "CatBoost",
+    "scenario": "calendar",
+    "parameters": {
+      "iterations": 850,
+      "depth": 8,
+      "learning_rate": 0.05
+    },
+    "MAE": 1923.580130010961,
+    "RMSE": 2679.8622838738584,
+    "MAPE": 6.69331085968535,
+    "sMAPE": 6.664726281614572
+  },
+  {
+    "model": "Ridge",
+    "scenario": "history",
+    "parameters": {
+      "alpha": 10.0
+    },
+    "MAE": 1937.1294338096372,
+    "RMSE": 2628.5526573306156,
+    "MAPE": 6.78398941514401,
+    "sMAPE": 6.750668497283746
+  },
+  {
+    "model": "Ridge",
+    "scenario": "history",
+    "parameters": {
+      "alpha": 1000.0
+    },
+    "MAE": 1919.1924873016576,
+    "RMSE": 2618.510621505384,
+    "MAPE": 6.7148293437088595,
+    "sMAPE": 6.6667679116192184
+  },
+  {
+    "model": "Random Forest",
+    "scenario": "history",
+    "parameters": {
+      "n_estimators": 100,
+      "max_depth": 14,
+      "min_samples_leaf": 4
+    },
+    "MAE": 1657.686627921643,
+    "RMSE": 2486.7073377773067,
+    "MAPE": 5.778838718925532,
+    "sMAPE": 5.751524418712782
+  },
+  {
+    "model": "Random Forest",
+    "scenario": "history",
+    "parameters": {
+      "n_estimators": 100,
+      "max_depth": 22,
+      "min_samples_leaf": 2
+    },
+    "MAE": 1651.88377516292,
+    "RMSE": 2482.9606792647883,
+    "MAPE": 5.74682693377422,
+    "sMAPE": 5.728437690796704
+  },
+  {
+    "model": "CatBoost",
+    "scenario": "history",
+    "parameters": {
+      "iterations": 650,
+      "depth": 6,
+      "learning_rate": 0.06
+    },
+    "MAE": 1716.7793007362307,
+    "RMSE": 2467.2277416729717,
+    "MAPE": 5.951637174183471,
+    "sMAPE": 5.9505172253806675
+  },
+  {
+    "model": "CatBoost",
+    "scenario": "history",
+    "parameters": {
+      "iterations": 850,
+      "depth": 8,
+      "learning_rate": 0.05
+    },
+    "MAE": 1648.352343222009,
+    "RMSE": 2410.873910119415,
+    "MAPE": 5.735440963909793,
+    "sMAPE": 5.713295133654346
+  },
+  {
+    "model": "Ridge",
+    "scenario": "weather_past",
+    "parameters": {
+      "alpha": 10.0
+    },
+    "MAE": 1968.5753056480823,
+    "RMSE": 2655.56256945791,
+    "MAPE": 6.911861424589573,
+    "sMAPE": 6.887421838096763
+  },
+  {
+    "model": "Ridge",
+    "scenario": "weather_past",
+    "parameters": {
+      "alpha": 1000.0
+    },
+    "MAE": 1922.392753882323,
+    "RMSE": 2617.0372153130406,
+    "MAPE": 6.7456104940898705,
+    "sMAPE": 6.699075820695014
+  },
+  {
+    "model": "Random Forest",
+    "scenario": "weather_past",
+    "parameters": {
+      "n_estimators": 100,
+      "max_depth": 14,
+      "min_samples_leaf": 4
+    },
+    "MAE": 1661.6984124100684,
+    "RMSE": 2488.2870628427827,
+    "MAPE": 5.801104107834753,
+    "sMAPE": 5.768154590645182
+  },
+  {
+    "model": "Random Forest",
+    "scenario": "weather_past",
+    "parameters": {
+      "n_estimators": 100,
+      "max_depth": 22,
+      "min_samples_leaf": 2
+    },
+    "MAE": 1658.8790218359,
+    "RMSE": 2485.9567165867634,
+    "MAPE": 5.785843473469105,
+    "sMAPE": 5.7564803939601745
+  },
+  {
+    "model": "CatBoost",
+    "scenario": "weather_past",
+    "parameters": {
+      "iterations": 650,
+      "depth": 6,
+      "learning_rate": 0.06
+    },
+    "MAE": 1694.6719455581585,
+    "RMSE": 2435.0252736579937,
+    "MAPE": 5.884395576247678,
+    "sMAPE": 5.8729642330147565
+  },
+  {
+    "model": "CatBoost",
+    "scenario": "weather_past",
+    "parameters": {
+      "iterations": 850,
+      "depth": 8,
+      "learning_rate": 0.05
+    },
+    "MAE": 1638.2890808566992,
+    "RMSE": 2393.26246649096,
+    "MAPE": 5.705626607795288,
+    "sMAPE": 5.682631360779414
+  },
+  {
+    "model": "Ridge",
+    "scenario": "weather_oracle",
+    "parameters": {
+      "alpha": 10.0
+    },
+    "MAE": 1949.7708443275246,
+    "RMSE": 2634.5008250219553,
+    "MAPE": 6.831145446370478,
+    "sMAPE": 6.814435426296892
+  },
+  {
+    "model": "Ridge",
+    "scenario": "weather_oracle",
+    "parameters": {
+      "alpha": 1000.0
+    },
+    "MAE": 1918.7746658330866,
+    "RMSE": 2613.300026462101,
+    "MAPE": 6.716326693674786,
+    "sMAPE": 6.68188846226527
+  },
+  {
+    "model": "Random Forest",
+    "scenario": "weather_oracle",
+    "parameters": {
+      "n_estimators": 100,
+      "max_depth": 14,
+      "min_samples_leaf": 4
+    },
+    "MAE": 1660.308868476309,
+    "RMSE": 2494.8586440913577,
+    "MAPE": 5.806106475245501,
+    "sMAPE": 5.768545781340166
+  },
+  {
+    "model": "Random Forest",
+    "scenario": "weather_oracle",
+    "parameters": {
+      "n_estimators": 100,
+      "max_depth": 22,
+      "min_samples_leaf": 2
+    },
+    "MAE": 1657.7822840019026,
+    "RMSE": 2483.242655910061,
+    "MAPE": 5.788037429090544,
+    "sMAPE": 5.759060616057248
+  },
+  {
+    "model": "CatBoost",
+    "scenario": "weather_oracle",
+    "parameters": {
+      "iterations": 650,
+      "depth": 6,
+      "learning_rate": 0.06
+    },
+    "MAE": 1729.912170903889,
+    "RMSE": 2473.8429994339926,
+    "MAPE": 6.012750105196988,
+    "sMAPE": 5.999329160564247
+  },
+  {
+    "model": "CatBoost",
+    "scenario": "weather_oracle",
+    "parameters": {
+      "iterations": 850,
+      "depth": 8,
+      "learning_rate": 0.05
+    },
+    "MAE": 1635.331698166508,
+    "RMSE": 2412.355504074092,
+    "MAPE": 5.68924488032905,
+    "sMAPE": 5.668020768851472
+  }
+]

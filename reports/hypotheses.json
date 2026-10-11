@@ -1,0 +1,22 @@
+{
+  "weekend": {
+    "difference_mw": -2487.0384125902565,
+    "lower_95": -2763.3900078862675,
+    "upper_95": -2211.260936342431,
+    "group_days": [
+      418,
+      1043
+    ]
+  },
+  "holiday": {
+    "difference_mw": -1795.6996111406406,
+    "lower_95": -2886.2855792739697,
+    "upper_95": -674.6555198764584,
+    "group_days": [
+      33,
+      1414
+    ]
+  },
+  "temp_load_pearson": 0.20536110670487337,
+  "temperature_note": "Calendar-adjusted residuals on train only; descriptive, not causal"
+}

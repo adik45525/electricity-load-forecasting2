@@ -1,0 +1,41 @@
+{
+  "energy_rows": 35064,
+  "weather_rows": 178396,
+  "energy_duplicate_timestamps": 0,
+  "weather_duplicate_keys": 3076,
+  "cities": [
+    "Barcelona",
+    "Bilbao",
+    "Madrid",
+    "Seville",
+    "Valencia"
+  ],
+  "weather_invalid": {
+    "temp": 0,
+    "pressure": 48,
+    "humidity": 0,
+    "wind_speed": 1,
+    "rain_1h": 0,
+    "clouds_all": 0
+  },
+  "sha256": {
+    "energy_dataset.csv": "14cd13e020d87af0ab49db8e0f1e4d308320ec5b8d2dec23bab4d27c75c7733a",
+    "weather_features.csv": "3566c3c21179d4fc6691eec6d37a6cfe8fe6a4d9e097f95e4fda4a29dc683b18"
+  },
+  "invalid_load": 0,
+  "missing_load": 36,
+  "missing_energy_hours": 0,
+  "missing_weather_Barcelona": 48,
+  "missing_weather_Bilbao": 0,
+  "missing_weather_Madrid": 0,
+  "missing_weather_Seville": 0,
+  "missing_weather_Valencia": 1,
+  "start_utc": "2014-12-31 23:00:00+00:00",
+  "end_utc": "2018-12-31 22:00:00+00:00",
+  "hours": 35064,
+  "target_observed": 35028,
+  "load_min_mw": 18041.0,
+  "load_max_mw": 41015.0,
+  "timezone": "UTC storage; Europe/Madrid calendar",
+  "aggregation": "Equal-weight mean of five cities; not population weighted"
+}

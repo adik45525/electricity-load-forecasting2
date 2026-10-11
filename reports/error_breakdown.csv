@@ -1,0 +1,807 @@
+model,scenario,value,MAE,hours,group
+CatBoost,calendar,0,1117.7710669504454,362,hour
+CatBoost,calendar,1,1016.7115695363416,362,hour
+CatBoost,calendar,2,958.1397261865579,362,hour
+CatBoost,calendar,3,945.485473259349,362,hour
+CatBoost,calendar,4,940.7796593067602,362,hour
+CatBoost,calendar,5,995.7966789737228,362,hour
+CatBoost,calendar,6,1346.6381616348692,362,hour
+CatBoost,calendar,7,2052.8432248940735,362,hour
+CatBoost,calendar,8,2337.0097202276997,362,hour
+CatBoost,calendar,9,2278.7606443480795,362,hour
+CatBoost,calendar,10,2084.0102022354267,362,hour
+CatBoost,calendar,11,1982.8504681049708,362,hour
+CatBoost,calendar,12,2038.8954777420947,362,hour
+CatBoost,calendar,13,1985.3129511880347,362,hour
+CatBoost,calendar,14,1904.724729618478,362,hour
+CatBoost,calendar,15,2018.546679898007,362,hour
+CatBoost,calendar,16,2071.092576805909,362,hour
+CatBoost,calendar,17,2061.0175959180283,362,hour
+CatBoost,calendar,18,1943.1477434721478,362,hour
+CatBoost,calendar,19,1913.5862663538035,362,hour
+CatBoost,calendar,20,1917.3819969447716,362,hour
+CatBoost,calendar,21,1619.848874820158,362,hour
+CatBoost,calendar,22,1352.4477146066906,362,hour
+CatBoost,calendar,23,1207.1113776772029,362,hour
+CatBoost,history,0,992.3184451404692,362,hour
+CatBoost,history,1,896.0298561440753,362,hour
+CatBoost,history,2,809.8843861877534,362,hour
+CatBoost,history,3,806.0105927440342,362,hour
+CatBoost,history,4,820.3016775095019,362,hour
+CatBoost,history,5,897.1405684729308,362,hour
+CatBoost,history,6,1249.4320655517138,362,hour
+CatBoost,history,7,1920.6148299797994,362,hour
+CatBoost,history,8,2150.030056377986,362,hour
+CatBoost,history,9,2073.0499653014676,362,hour
+CatBoost,history,10,1941.9928719371503,362,hour
+CatBoost,history,11,1863.292851755667,362,hour
+CatBoost,history,12,1906.3582753038431,362,hour
+CatBoost,history,13,1857.1449182788215,362,hour
+CatBoost,history,14,1764.3942137147735,362,hour
+CatBoost,history,15,1838.0964345452087,362,hour
+CatBoost,history,16,1924.0731970385798,362,hour
+CatBoost,history,17,1947.5100620385322,362,hour
+CatBoost,history,18,1850.8164907931289,362,hour
+CatBoost,history,19,1774.5449056328691,362,hour
+CatBoost,history,20,1707.5626661996992,362,hour
+CatBoost,history,21,1460.7275832025946,362,hour
+CatBoost,history,22,1209.3061901503247,362,hour
+CatBoost,history,23,1041.8194398651515,362,hour
+CatBoost,weather_oracle,0,1019.3945813226929,362,hour
+CatBoost,weather_oracle,1,910.4948456055383,362,hour
+CatBoost,weather_oracle,2,813.4820872694037,362,hour
+CatBoost,weather_oracle,3,803.9415912330301,362,hour
+CatBoost,weather_oracle,4,819.308228467457,362,hour
+CatBoost,weather_oracle,5,901.514603747112,362,hour
+CatBoost,weather_oracle,6,1282.839884590525,362,hour
+CatBoost,weather_oracle,7,1950.1027733100293,362,hour
+CatBoost,weather_oracle,8,2188.775428852624,362,hour
+CatBoost,weather_oracle,9,2097.450498895298,362,hour
+CatBoost,weather_oracle,10,1965.4249911620832,362,hour
+CatBoost,weather_oracle,11,1876.050536664508,362,hour
+CatBoost,weather_oracle,12,1933.5396613618318,362,hour
+CatBoost,weather_oracle,13,1857.3570435253769,362,hour
+CatBoost,weather_oracle,14,1763.963861110547,362,hour
+CatBoost,weather_oracle,15,1854.9865923176083,362,hour
+CatBoost,weather_oracle,16,1939.8213287607264,362,hour
+CatBoost,weather_oracle,17,1945.0125061747874,362,hour
+CatBoost,weather_oracle,18,1860.2609582444761,362,hour
+CatBoost,weather_oracle,19,1808.1903385616429,362,hour
+CatBoost,weather_oracle,20,1716.826635325462,362,hour
+CatBoost,weather_oracle,21,1437.998862991791,362,hour
+CatBoost,weather_oracle,22,1172.9562068879127,362,hour
+CatBoost,weather_oracle,23,1020.7078694511499,362,hour
+CatBoost,weather_past,0,1018.6551387116504,362,hour
+CatBoost,weather_past,1,908.0112327736,362,hour
+CatBoost,weather_past,2,810.3153545128282,362,hour
+CatBoost,weather_past,3,799.134572408755,362,hour
+CatBoost,weather_past,4,813.0279728165459,362,hour
+CatBoost,weather_past,5,884.96214806142,362,hour
+CatBoost,weather_past,6,1264.7347986894206,362,hour
+CatBoost,weather_past,7,1932.2712210405286,362,hour
+CatBoost,weather_past,8,2173.1285700028693,362,hour
+CatBoost,weather_past,9,2082.967726049599,362,hour
+CatBoost,weather_past,10,1933.0531063897572,362,hour
+CatBoost,weather_past,11,1838.88212542585,362,hour
+CatBoost,weather_past,12,1912.8230572631032,362,hour
+CatBoost,weather_past,13,1852.241540530521,362,hour
+CatBoost,weather_past,14,1753.4250973786554,362,hour
+CatBoost,weather_past,15,1860.822699714407,362,hour
+CatBoost,weather_past,16,1929.6014719669831,362,hour
+CatBoost,weather_past,17,1947.3694246236219,362,hour
+CatBoost,weather_past,18,1841.7778645601556,362,hour
+CatBoost,weather_past,19,1804.4667849162495,362,hour
+CatBoost,weather_past,20,1736.012106785025,362,hour
+CatBoost,weather_past,21,1475.4143129927393,362,hour
+CatBoost,weather_past,22,1201.6529979264117,362,hour
+CatBoost,weather_past,23,1030.270880176333,362,hour
+Random Forest,calendar,0,1103.3119418475349,362,hour
+Random Forest,calendar,1,983.4981783207451,362,hour
+Random Forest,calendar,2,979.8365270413649,362,hour
+Random Forest,calendar,3,949.3988447871496,362,hour
+Random Forest,calendar,4,929.2974056438934,362,hour
+Random Forest,calendar,5,1070.86821041316,362,hour
+Random Forest,calendar,6,1303.246966283772,362,hour
+Random Forest,calendar,7,1947.5544584001818,362,hour
+Random Forest,calendar,8,2198.4682399606972,362,hour
+Random Forest,calendar,9,2257.852860051806,362,hour
+Random Forest,calendar,10,2167.4374112283017,362,hour
+Random Forest,calendar,11,2106.0200283194686,362,hour
+Random Forest,calendar,12,2175.174742971295,362,hour
+Random Forest,calendar,13,2125.1613658129454,362,hour
+Random Forest,calendar,14,1979.658609314756,362,hour
+Random Forest,calendar,15,2090.9069362059718,362,hour
+Random Forest,calendar,16,2128.848858590325,362,hour
+Random Forest,calendar,17,2129.547316752602,362,hour
+Random Forest,calendar,18,2074.07889570141,362,hour
+Random Forest,calendar,19,2045.3028708895451,362,hour
+Random Forest,calendar,20,1953.8823566522542,362,hour
+Random Forest,calendar,21,1758.2629671977654,362,hour
+Random Forest,calendar,22,1435.111256480633,362,hour
+Random Forest,calendar,23,1260.220675755297,362,hour
+Random Forest,history,0,1016.6009994646904,362,hour
+Random Forest,history,1,866.2208194336857,362,hour
+Random Forest,history,2,786.6619765240229,362,hour
+Random Forest,history,3,772.0953494736183,362,hour
+Random Forest,history,4,789.897415865746,362,hour
+Random Forest,history,5,891.8645657289233,362,hour
+Random Forest,history,6,1250.346344574916,362,hour
+Random Forest,history,7,1966.1421151612738,362,hour
+Random Forest,history,8,2213.876706941844,362,hour
+Random Forest,history,9,2253.0081566246195,362,hour
+Random Forest,history,10,2075.9465413314747,362,hour
+Random Forest,history,11,2013.9402218810346,362,hour
+Random Forest,history,12,2097.085172004478,362,hour
+Random Forest,history,13,2093.2941083243995,362,hour
+Random Forest,history,14,1887.871211247247,362,hour
+Random Forest,history,15,1928.9051051103838,362,hour
+Random Forest,history,16,2037.750858080354,362,hour
+Random Forest,history,17,2062.9743797545684,362,hour
+Random Forest,history,18,2004.1392813875364,362,hour
+Random Forest,history,19,1961.2643263634832,362,hour
+Random Forest,history,20,1899.8759899024153,362,hour
+Random Forest,history,21,1663.9134574311054,362,hour
+Random Forest,history,22,1344.1965303254979,362,hour
+Random Forest,history,23,1069.4402327694004,362,hour
+Random Forest,weather_oracle,0,1016.9208834159235,362,hour
+Random Forest,weather_oracle,1,886.8360721109617,362,hour
+Random Forest,weather_oracle,2,799.1023971337463,362,hour
+Random Forest,weather_oracle,3,775.9077378831993,362,hour
+Random Forest,weather_oracle,4,796.2822240377329,362,hour
+Random Forest,weather_oracle,5,911.2061363727331,362,hour
+Random Forest,weather_oracle,6,1280.7325658705624,362,hour
+Random Forest,weather_oracle,7,1996.7720510738923,362,hour
+Random Forest,weather_oracle,8,2244.47562369674,362,hour
+Random Forest,weather_oracle,9,2267.292685037293,362,hour
+Random Forest,weather_oracle,10,2103.71492754122,362,hour
+Random Forest,weather_oracle,11,2053.9519588532917,362,hour
+Random Forest,weather_oracle,12,2124.971475976969,362,hour
+Random Forest,weather_oracle,13,2127.6440788420114,362,hour
+Random Forest,weather_oracle,14,1909.7073248564336,362,hour
+Random Forest,weather_oracle,15,1953.483654665784,362,hour
+Random Forest,weather_oracle,16,2060.500995344174,362,hour
+Random Forest,weather_oracle,17,2086.214796872745,362,hour
+Random Forest,weather_oracle,18,2013.29162786022,362,hour
+Random Forest,weather_oracle,19,1991.9937603959168,362,hour
+Random Forest,weather_oracle,20,1954.7035245025793,362,hour
+Random Forest,weather_oracle,21,1704.6542807365745,362,hour
+Random Forest,weather_oracle,22,1349.9407039171924,362,hour
+Random Forest,weather_oracle,23,1057.4320405683538,362,hour
+Random Forest,weather_past,0,1020.8283071351602,362,hour
+Random Forest,weather_past,1,878.5945954680598,362,hour
+Random Forest,weather_past,2,797.0529568781999,362,hour
+Random Forest,weather_past,3,775.3476811986243,362,hour
+Random Forest,weather_past,4,804.5386055413758,362,hour
+Random Forest,weather_past,5,924.7625906568929,362,hour
+Random Forest,weather_past,6,1324.9680061912807,362,hour
+Random Forest,weather_past,7,1991.6681772911186,362,hour
+Random Forest,weather_past,8,2251.0276891125386,362,hour
+Random Forest,weather_past,9,2258.291622405112,362,hour
+Random Forest,weather_past,10,2093.6242912012376,362,hour
+Random Forest,weather_past,11,2038.3571167107937,362,hour
+Random Forest,weather_past,12,2121.160815595563,362,hour
+Random Forest,weather_past,13,2137.484918659458,362,hour
+Random Forest,weather_past,14,1897.9992773519332,362,hour
+Random Forest,weather_past,15,1946.0889264162481,362,hour
+Random Forest,weather_past,16,2062.71204540588,362,hour
+Random Forest,weather_past,17,2087.8978806805285,362,hour
+Random Forest,weather_past,18,2011.2619529248745,362,hour
+Random Forest,weather_past,19,1980.30821019897,362,hour
+Random Forest,weather_past,20,1905.7998345380527,362,hour
+Random Forest,weather_past,21,1660.7690193101137,362,hour
+Random Forest,weather_past,22,1349.9649155161012,362,hour
+Random Forest,weather_past,23,1065.5930049741914,362,hour
+Ridge,calendar,0,1336.5914025620652,362,hour
+Ridge,calendar,1,1243.6748188705883,362,hour
+Ridge,calendar,2,1169.1594002860645,362,hour
+Ridge,calendar,3,1157.625196525473,362,hour
+Ridge,calendar,4,1138.273367020963,362,hour
+Ridge,calendar,5,1176.059633324984,362,hour
+Ridge,calendar,6,1753.7738414949279,362,hour
+Ridge,calendar,7,2956.977768833858,362,hour
+Ridge,calendar,8,3075.5916876414467,362,hour
+Ridge,calendar,9,2861.8084930280475,362,hour
+Ridge,calendar,10,2566.041468008134,362,hour
+Ridge,calendar,11,2405.6097124610487,362,hour
+Ridge,calendar,12,2384.6233802359134,362,hour
+Ridge,calendar,13,2319.6880458857504,362,hour
+Ridge,calendar,14,2189.0110944946855,362,hour
+Ridge,calendar,15,2317.526754241964,362,hour
+Ridge,calendar,16,2426.9269214758583,362,hour
+Ridge,calendar,17,2463.9605474155874,362,hour
+Ridge,calendar,18,2510.368226405248,362,hour
+Ridge,calendar,19,2603.3908218416504,362,hour
+Ridge,calendar,20,2519.809134557228,362,hour
+Ridge,calendar,21,2089.0267450819933,362,hour
+Ridge,calendar,22,1649.2651081574338,362,hour
+Ridge,calendar,23,1381.127778455512,362,hour
+Ridge,history,0,1193.9186303622325,362,hour
+Ridge,history,1,1125.6117126828676,362,hour
+Ridge,history,2,1052.1451079032493,362,hour
+Ridge,history,3,1045.615840786065,362,hour
+Ridge,history,4,1026.1641720766522,362,hour
+Ridge,history,5,1031.4191079572502,362,hour
+Ridge,history,6,1577.1054516460217,362,hour
+Ridge,history,7,2755.164209369497,362,hour
+Ridge,history,8,2873.5289440221964,362,hour
+Ridge,history,9,2656.9755269449265,362,hour
+Ridge,history,10,2359.168033945841,362,hour
+Ridge,history,11,2199.6586334345384,362,hour
+Ridge,history,12,2216.2625216306633,362,hour
+Ridge,history,13,2123.2405912953495,362,hour
+Ridge,history,14,1971.627630074922,362,hour
+Ridge,history,15,2114.2473866343585,362,hour
+Ridge,history,16,2251.2515547753787,362,hour
+Ridge,history,17,2287.1313563744147,362,hour
+Ridge,history,18,2274.276760068995,362,hour
+Ridge,history,19,2309.5142780785195,362,hour
+Ridge,history,20,2219.0895190909314,362,hour
+Ridge,history,21,1811.4786089259587,362,hour
+Ridge,history,22,1378.846954457347,362,hour
+Ridge,history,23,1159.6615286413714,362,hour
+Ridge,weather_oracle,0,1196.5829350316383,362,hour
+Ridge,weather_oracle,1,1123.3751340999363,362,hour
+Ridge,weather_oracle,2,1098.8709272636993,362,hour
+Ridge,weather_oracle,3,1091.091339370381,362,hour
+Ridge,weather_oracle,4,1066.4577732859436,362,hour
+Ridge,weather_oracle,5,1065.0772017615757,362,hour
+Ridge,weather_oracle,6,1575.5016280071266,362,hour
+Ridge,weather_oracle,7,2751.2405724352725,362,hour
+Ridge,weather_oracle,8,2848.7050618106637,362,hour
+Ridge,weather_oracle,9,2638.8349982293144,362,hour
+Ridge,weather_oracle,10,2352.139449412193,362,hour
+Ridge,weather_oracle,11,2197.688743764955,362,hour
+Ridge,weather_oracle,12,2200.864427687321,362,hour
+Ridge,weather_oracle,13,2104.184091728051,362,hour
+Ridge,weather_oracle,14,1931.6912717987614,362,hour
+Ridge,weather_oracle,15,2078.233747102009,362,hour
+Ridge,weather_oracle,16,2214.0896578507572,362,hour
+Ridge,weather_oracle,17,2248.9454938759613,362,hour
+Ridge,weather_oracle,18,2248.6291992450942,362,hour
+Ridge,weather_oracle,19,2302.07852519311,362,hour
+Ridge,weather_oracle,20,2231.8102396398863,362,hour
+Ridge,weather_oracle,21,1811.9976446070016,362,hour
+Ridge,weather_oracle,22,1344.0394191072749,362,hour
+Ridge,weather_oracle,23,1123.2306128376397,362,hour
+Ridge,weather_past,0,1187.617684643344,362,hour
+Ridge,weather_past,1,1111.2465141597283,362,hour
+Ridge,weather_past,2,1079.180995105192,362,hour
+Ridge,weather_past,3,1073.5515103972257,362,hour
+Ridge,weather_past,4,1048.1423346237787,362,hour
+Ridge,weather_past,5,1041.8550315248235,362,hour
+Ridge,weather_past,6,1569.9285675034316,362,hour
+Ridge,weather_past,7,2745.159188162701,362,hour
+Ridge,weather_past,8,2849.6755574973276,362,hour
+Ridge,weather_past,9,2632.834960001563,362,hour
+Ridge,weather_past,10,2346.575356265783,362,hour
+Ridge,weather_past,11,2197.841312252112,362,hour
+Ridge,weather_past,12,2201.4628254895615,362,hour
+Ridge,weather_past,13,2100.3529050065163,362,hour
+Ridge,weather_past,14,1933.082000028383,362,hour
+Ridge,weather_past,15,2078.871697315794,362,hour
+Ridge,weather_past,16,2211.321680542238,362,hour
+Ridge,weather_past,17,2251.294686370989,362,hour
+Ridge,weather_past,18,2248.27274673753,362,hour
+Ridge,weather_past,19,2304.549125440284,362,hour
+Ridge,weather_past,20,2238.904791492598,362,hour
+Ridge,weather_past,21,1802.8056369897065,362,hour
+Ridge,weather_past,22,1333.577710236311,362,hour
+Ridge,weather_past,23,1119.5692313962893,362,hour
+Seasonal Naive,history,0,1716.792817679558,362,hour
+Seasonal Naive,history,1,1508.4392265193371,362,hour
+Seasonal Naive,history,2,1414.842541436464,362,hour
+Seasonal Naive,history,3,1374.7292817679559,362,hour
+Seasonal Naive,history,4,1381.013812154696,362,hour
+Seasonal Naive,history,5,1487.9254143646408,362,hour
+Seasonal Naive,history,6,2059.1767955801106,362,hour
+Seasonal Naive,history,7,3233.511049723757,362,hour
+Seasonal Naive,history,8,3767.5662983425414,362,hour
+Seasonal Naive,history,9,3582.243093922652,362,hour
+Seasonal Naive,history,10,3343.3839779005525,362,hour
+Seasonal Naive,history,11,3157.903314917127,362,hour
+Seasonal Naive,history,12,3106.6187845303866,362,hour
+Seasonal Naive,history,13,3081.3259668508285,362,hour
+Seasonal Naive,history,14,2931.4309392265195,362,hour
+Seasonal Naive,history,15,3097.756906077348,362,hour
+Seasonal Naive,history,16,3243.803867403315,362,hour
+Seasonal Naive,history,17,3297.3977900552486,362,hour
+Seasonal Naive,history,18,3304.704419889503,362,hour
+Seasonal Naive,history,19,3341.3950276243095,362,hour
+Seasonal Naive,history,20,3210.997237569061,362,hour
+Seasonal Naive,history,21,2678.3839779005525,362,hour
+Seasonal Naive,history,22,2293.6546961325967,362,hour
+Seasonal Naive,history,23,1936.3149171270718,362,hour
+CatBoost,calendar,1,1702.1021525217293,743,month
+CatBoost,calendar,2,1889.4922128997368,672,month
+CatBoost,calendar,3,1963.1409444563583,743,month
+CatBoost,calendar,4,1557.772262297389,720,month
+CatBoost,calendar,5,1283.4535360270834,744,month
+CatBoost,calendar,6,2121.2429502454706,696,month
+CatBoost,calendar,7,1512.7770039976765,720,month
+CatBoost,calendar,8,1680.0819443881767,744,month
+CatBoost,calendar,9,2171.9545432429272,720,month
+CatBoost,calendar,10,1328.297264111019,745,month
+CatBoost,calendar,11,1121.3369400354989,720,month
+CatBoost,calendar,12,1756.9083908959017,721,month
+CatBoost,history,1,1883.7079767077958,743,month
+CatBoost,history,2,1951.5972335322174,672,month
+CatBoost,history,3,1799.8939208910956,743,month
+CatBoost,history,4,1076.3574438832923,720,month
+CatBoost,history,5,1304.3667609245185,744,month
+CatBoost,history,6,1550.3500951146473,696,month
+CatBoost,history,7,1443.2762296651158,720,month
+CatBoost,history,8,1327.2955277126073,744,month
+CatBoost,history,9,1834.4863162226043,720,month
+CatBoost,history,10,1109.9994272879153,745,month
+CatBoost,history,11,1191.2182415280952,720,month
+CatBoost,history,12,1915.8179767256897,721,month
+CatBoost,weather_oracle,1,1898.6415787552214,743,month
+CatBoost,weather_oracle,2,1919.215331882915,672,month
+CatBoost,weather_oracle,3,1767.767983560398,743,month
+CatBoost,weather_oracle,4,1184.1924146253948,720,month
+CatBoost,weather_oracle,5,1301.789826833802,744,month
+CatBoost,weather_oracle,6,1548.5040891908448,696,month
+CatBoost,weather_oracle,7,1401.53820199632,720,month
+CatBoost,weather_oracle,8,1399.6432880096004,744,month
+CatBoost,weather_oracle,9,1850.0355061343628,720,month
+CatBoost,weather_oracle,10,1198.9643965793805,745,month
+CatBoost,weather_oracle,11,1214.0157776561516,720,month
+CatBoost,weather_oracle,12,1816.7461282069082,721,month
+CatBoost,weather_past,1,1952.1694983885818,743,month
+CatBoost,weather_past,2,1929.2640883753213,672,month
+CatBoost,weather_past,3,1849.147153626071,743,month
+CatBoost,weather_past,4,1113.1244919366386,720,month
+CatBoost,weather_past,5,1337.2920616662825,744,month
+CatBoost,weather_past,6,1506.7243964418751,696,month
+CatBoost,weather_past,7,1421.3971948962871,720,month
+CatBoost,weather_past,8,1343.4109772539782,744,month
+CatBoost,weather_past,9,1768.1323033324954,720,month
+CatBoost,weather_past,10,1107.041510896316,745,month
+CatBoost,weather_past,11,1177.8566833696116,720,month
+CatBoost,weather_past,12,1926.12683382977,721,month
+Random Forest,calendar,1,1616.23443917173,743,month
+Random Forest,calendar,2,2186.210717662779,672,month
+Random Forest,calendar,3,2289.351026088118,743,month
+Random Forest,calendar,4,1299.925950054022,720,month
+Random Forest,calendar,5,1261.8492904588636,744,month
+Random Forest,calendar,6,2043.4780957756561,696,month
+Random Forest,calendar,7,1586.8775904846666,720,month
+Random Forest,calendar,8,1726.7653545277399,744,month
+Random Forest,calendar,9,2283.400138647729,720,month
+Random Forest,calendar,10,1386.9060100771999,745,month
+Random Forest,calendar,11,1146.865897953664,720,month
+Random Forest,calendar,12,1801.7453844351785,721,month
+Random Forest,history,1,1924.8420706596298,743,month
+Random Forest,history,2,1972.5616621197757,672,month
+Random Forest,history,3,1894.065381479337,743,month
+Random Forest,history,4,990.7904001706804,720,month
+Random Forest,history,5,1367.775487908533,744,month
+Random Forest,history,6,1696.1055951120213,696,month
+Random Forest,history,7,1454.2662137233665,720,month
+Random Forest,history,8,1544.8030475051423,744,month
+Random Forest,history,9,2132.7568674791837,720,month
+Random Forest,history,10,1267.9090965322227,745,month
+Random Forest,history,11,1272.7288278164838,720,month
+Random Forest,history,12,1985.4182488533272,721,month
+Random Forest,weather_oracle,1,2006.7266549365174,743,month
+Random Forest,weather_oracle,2,2043.069964152252,672,month
+Random Forest,weather_oracle,3,1862.4493336595797,743,month
+Random Forest,weather_oracle,4,995.6443494850204,720,month
+Random Forest,weather_oracle,5,1418.9616665757517,744,month
+Random Forest,weather_oracle,6,1685.1670331125893,696,month
+Random Forest,weather_oracle,7,1477.1130121672652,720,month
+Random Forest,weather_oracle,8,1576.2443820385197,744,month
+Random Forest,weather_oracle,9,2100.223448106718,720,month
+Random Forest,weather_oracle,10,1278.495927465314,745,month
+Random Forest,weather_oracle,11,1358.9321351887093,720,month
+Random Forest,weather_oracle,12,1962.29184466349,721,month
+Random Forest,weather_past,1,1976.0538244443426,743,month
+Random Forest,weather_past,2,2038.8990418697558,672,month
+Random Forest,weather_past,3,1875.901141598998,743,month
+Random Forest,weather_past,4,1018.4858630417374,720,month
+Random Forest,weather_past,5,1405.3675894059863,744,month
+Random Forest,weather_past,6,1759.9700296810706,696,month
+Random Forest,weather_past,7,1450.9921323614003,720,month
+Random Forest,weather_past,8,1561.013386681647,744,month
+Random Forest,weather_past,9,2088.734542168572,720,month
+Random Forest,weather_past,10,1235.0561971539819,745,month
+Random Forest,weather_past,11,1339.6765827747777,720,month
+Random Forest,weather_past,12,1979.33809635238,721,month
+Ridge,calendar,1,2348.1024756272423,743,month
+Ridge,calendar,2,2492.4441835244847,672,month
+Ridge,calendar,3,2247.0774506052744,743,month
+Ridge,calendar,4,1799.97294059837,720,month
+Ridge,calendar,5,1616.006680966178,744,month
+Ridge,calendar,6,2120.5470415540094,696,month
+Ridge,calendar,7,1966.9192073749575,720,month
+Ridge,calendar,8,1998.608972201375,744,month
+Ridge,calendar,9,2271.9551473431857,720,month
+Ridge,calendar,10,1743.1930476711589,745,month
+Ridge,calendar,11,1758.7387483922635,720,month
+Ridge,calendar,12,2527.965565470361,721,month
+Ridge,history,1,2148.2422591215523,743,month
+Ridge,history,2,2248.4533951193885,672,month
+Ridge,history,3,1912.8351976835718,743,month
+Ridge,history,4,1586.7617328226356,720,month
+Ridge,history,5,1524.286709002258,744,month
+Ridge,history,6,1907.1924553462134,696,month
+Ridge,history,7,1869.6543045868832,720,month
+Ridge,history,8,1845.7597437705645,744,month
+Ridge,history,9,1937.399458953162,720,month
+Ridge,history,10,1676.0321736044043,745,month
+Ridge,history,11,1677.9591718200336,720,month
+Ridge,history,12,2207.157001400527,721,month
+Ridge,weather_oracle,1,2149.1746488542603,743,month
+Ridge,weather_oracle,2,2235.7818644484955,672,month
+Ridge,weather_oracle,3,1919.72509432568,743,month
+Ridge,weather_oracle,4,1551.0344124899543,720,month
+Ridge,weather_oracle,5,1486.3562231728984,744,month
+Ridge,weather_oracle,6,1918.7832497614386,696,month
+Ridge,weather_oracle,7,1838.2547553166494,720,month
+Ridge,weather_oracle,8,1836.0447503006126,744,month
+Ridge,weather_oracle,9,1928.3192360721046,720,month
+Ridge,weather_oracle,10,1667.916160832352,745,month
+Ridge,weather_oracle,11,1685.4111886804244,720,month
+Ridge,weather_oracle,12,2241.7077944378348,721,month
+Ridge,weather_past,1,2154.34760701502,743,month
+Ridge,weather_past,2,2206.2741082336765,672,month
+Ridge,weather_past,3,1907.8790168942621,743,month
+Ridge,weather_past,4,1560.748214273686,720,month
+Ridge,weather_past,5,1477.1587125644626,744,month
+Ridge,weather_past,6,1910.804092383849,696,month
+Ridge,weather_past,7,1865.57116312655,720,month
+Ridge,weather_past,8,1843.0790477751516,744,month
+Ridge,weather_past,9,1950.3658548673577,720,month
+Ridge,weather_past,10,1623.6012553592072,745,month
+Ridge,weather_past,11,1675.6495686320814,720,month
+Ridge,weather_past,12,2213.4353531546294,721,month
+Seasonal Naive,history,1,2969.102288021534,743,month
+Seasonal Naive,history,2,2938.5119047619046,672,month
+Seasonal Naive,history,3,2926.2449528936745,743,month
+Seasonal Naive,history,4,2416.926388888889,720,month
+Seasonal Naive,history,5,2006.3682795698924,744,month
+Seasonal Naive,history,6,2925.9827586206898,696,month
+Seasonal Naive,history,7,2298.3597222222224,720,month
+Seasonal Naive,history,8,2789.3333333333335,744,month
+Seasonal Naive,history,9,2752.275,720,month
+Seasonal Naive,history,10,2104.2979865771813,745,month
+Seasonal Naive,history,11,2237.6180555555557,720,month
+Seasonal Naive,history,12,3454.5561719833563,721,month
+CatBoost,calendar,0,1657.5144359739572,6192,weekend
+CatBoost,calendar,1,1702.4111549134484,2496,weekend
+CatBoost,history,0,1480.181151785685,6192,weekend
+CatBoost,history,1,1651.0441222045504,2496,weekend
+CatBoost,weather_oracle,0,1467.1771523209109,6192,weekend
+CatBoost,weather_oracle,1,1717.8143294714298,2496,weekend
+CatBoost,weather_past,0,1470.0964233640375,6192,weekend
+CatBoost,weather_past,1,1690.937894631188,2496,weekend
+Random Forest,calendar,0,1673.4666464150303,6192,weekend
+Random Forest,calendar,1,1817.0118886665125,2496,weekend
+Random Forest,history,0,1548.7162820259687,6192,weekend
+Random Forest,history,1,1806.600832163876,2496,weekend
+Random Forest,weather_oracle,0,1576.9960049605183,6192,weekend
+Random Forest,weather_oracle,1,1811.9231868042675,2496,weekend
+Random Forest,weather_past,0,1577.4972337368133,6192,weekend
+Random Forest,weather_past,1,1798.8406299979192,2496,weekend
+Ridge,calendar,0,2029.162790817799,6192,weekend
+Ridge,calendar,1,2173.6153474932353,2496,weekend
+Ridge,history,0,1826.6860405679868,6192,weekend
+Ridge,history,1,1996.7562928485665,2496,weekend
+Ridge,weather_oracle,0,1816.0060743329989,6192,weekend
+Ridge,weather_oracle,1,1998.9225729858845,2496,weekend
+Ridge,weather_past,0,1812.73021167618,6192,weekend
+Ridge,weather_past,1,1987.0803425903107,2496,weekend
+Seasonal Naive,history,0,2587.578003875969,6192,weekend
+Seasonal Naive,history,1,2797.793269230769,2496,weekend
+CatBoost,calendar,1,978.3920321372168,362,horizon
+CatBoost,calendar,2,952.3132838474819,362,horizon
+CatBoost,calendar,3,940.4449714742984,362,horizon
+CatBoost,calendar,4,977.032792516799,362,horizon
+CatBoost,calendar,5,1182.9533720959553,362,horizon
+CatBoost,calendar,6,1704.5930650114724,362,horizon
+CatBoost,calendar,7,2224.89115699606,362,horizon
+CatBoost,calendar,8,2308.002800629896,362,horizon
+CatBoost,calendar,9,2156.594623438349,362,horizon
+CatBoost,calendar,10,2034.7076164169532,362,horizon
+CatBoost,calendar,11,2037.3448280006905,362,horizon
+CatBoost,calendar,12,1991.6882348217507,362,horizon
+CatBoost,calendar,13,1934.3908391537177,362,horizon
+CatBoost,calendar,14,1985.4442551756338,362,horizon
+CatBoost,calendar,15,2052.3627836914093,362,horizon
+CatBoost,calendar,16,2065.411078131546,362,horizon
+CatBoost,calendar,17,2028.433944729555,362,horizon
+CatBoost,calendar,18,1908.0959176872896,362,horizon
+CatBoost,calendar,19,1881.1120079272828,362,horizon
+CatBoost,calendar,20,1743.5214034706023,362,horizon
+CatBoost,calendar,21,1462.2155165085305,362,horizon
+CatBoost,calendar,22,1276.5494371343752,362,horizon
+CatBoost,calendar,23,1203.374762152061,362,horizon
+CatBoost,calendar,24,1060.039857554697,362,horizon
+CatBoost,history,1,836.9317299893049,362,horizon
+CatBoost,history,2,805.965851299668,362,horizon
+CatBoost,history,3,801.4970645226623,362,horizon
+CatBoost,history,4,868.3502656682002,362,horizon
+CatBoost,history,5,1075.018133260022,362,horizon
+CatBoost,history,6,1617.9465885716947,362,horizon
+CatBoost,history,7,2029.5396951764226,362,horizon
+CatBoost,history,8,2079.451593909367,362,horizon
+CatBoost,history,9,1991.0417207898324,362,horizon
+CatBoost,history,10,1900.0933548578516,362,horizon
+CatBoost,history,11,1909.743330663996,362,horizon
+CatBoost,history,12,1876.790320470085,362,horizon
+CatBoost,history,13,1811.1117332078452,362,horizon
+CatBoost,history,14,1821.8826230301033,362,horizon
+CatBoost,history,15,1896.0162111328038,362,horizon
+CatBoost,history,16,1931.518479686465,362,horizon
+CatBoost,history,17,1915.5230288252087,362,horizon
+CatBoost,history,18,1802.038892810024,362,horizon
+CatBoost,history,19,1704.9849953623168,362,horizon
+CatBoost,history,20,1574.9027526876068,362,horizon
+CatBoost,history,21,1337.5608150647038,362,horizon
+CatBoost,history,22,1132.558461998375,362,horizon
+CatBoost,history,23,1027.4203817636965,362,horizon
+CatBoost,history,24,954.5645191178188,362,horizon
+CatBoost,weather_oracle,1,829.0081921363409,362,horizon
+CatBoost,weather_oracle,2,805.254550177762,362,horizon
+CatBoost,weather_oracle,3,806.1082149166195,362,horizon
+CatBoost,weather_oracle,4,864.4034100139382,362,horizon
+CatBoost,weather_oracle,5,1099.537831577201,362,horizon
+CatBoost,weather_oracle,6,1652.771354470649,362,horizon
+CatBoost,weather_oracle,7,2073.317134516218,362,horizon
+CatBoost,weather_oracle,8,2137.9345847161185,362,horizon
+CatBoost,weather_oracle,9,2012.4945992808869,362,horizon
+CatBoost,weather_oracle,10,1916.6452411378255,362,horizon
+CatBoost,weather_oracle,11,1926.5317357655622,362,horizon
+CatBoost,weather_oracle,12,1881.1441235721463,362,horizon
+CatBoost,weather_oracle,13,1813.604403920169,362,horizon
+CatBoost,weather_oracle,14,1820.0613522225221,362,horizon
+CatBoost,weather_oracle,15,1920.5891286413428,362,horizon
+CatBoost,weather_oracle,16,1947.4870051417959,362,horizon
+CatBoost,weather_oracle,17,1905.633622965558,362,horizon
+CatBoost,weather_oracle,18,1826.3464114711426,362,horizon
+CatBoost,weather_oracle,19,1723.5918873618878,362,horizon
+CatBoost,weather_oracle,20,1575.8334644414479,362,horizon
+CatBoost,weather_oracle,21,1299.5649018079541,362,horizon
+CatBoost,weather_oracle,22,1086.5012073815817,362,horizon
+CatBoost,weather_oracle,23,1043.656655173653,362,horizon
+CatBoost,weather_oracle,24,972.3809030232894,362,horizon
+CatBoost,weather_past,1,823.6828985261495,362,horizon
+CatBoost,weather_past,2,800.5973637367928,362,horizon
+CatBoost,weather_past,3,801.6891709799819,362,horizon
+CatBoost,weather_past,4,852.7587051476336,362,horizon
+CatBoost,weather_past,5,1076.2003962379533,362,horizon
+CatBoost,weather_past,6,1626.6145207368138,362,horizon
+CatBoost,weather_past,7,2053.9313283525194,362,horizon
+CatBoost,weather_past,8,2110.85558122227,362,horizon
+CatBoost,weather_past,9,1982.3747204224821,362,horizon
+CatBoost,weather_past,10,1886.6997299742009,362,horizon
+CatBoost,weather_past,11,1910.017939766508,362,horizon
+CatBoost,weather_past,12,1868.3101091733172,362,horizon
+CatBoost,weather_past,13,1809.6085865113503,362,horizon
+CatBoost,weather_past,14,1823.8779854608283,362,horizon
+CatBoost,weather_past,15,1907.9911714667196,362,horizon
+CatBoost,weather_past,16,1945.4428159700635,362,horizon
+CatBoost,weather_past,17,1899.80249932701,362,horizon
+CatBoost,weather_past,18,1804.6398219542928,362,horizon
+CatBoost,weather_past,19,1739.955467098675,362,horizon
+CatBoost,weather_past,20,1604.1451082942199,362,horizon
+CatBoost,weather_past,21,1332.7793781085459,362,horizon
+CatBoost,weather_past,22,1113.93097852456,362,horizon
+CatBoost,weather_past,23,1044.713438062306,362,horizon
+CatBoost,weather_past,24,984.4024906618363,362,horizon
+Random Forest,calendar,1,983.7980531256005,362,horizon
+Random Forest,calendar,2,971.5829998338006,362,horizon
+Random Forest,calendar,3,935.7134471319716,362,horizon
+Random Forest,calendar,4,987.0615804586661,362,horizon
+Random Forest,calendar,5,1196.1800169483572,362,horizon
+Random Forest,calendar,6,1684.3692187548365,362,horizon
+Random Forest,calendar,7,2118.6352269868416,362,horizon
+Random Forest,calendar,8,2195.7614849191305,362,horizon
+Random Forest,calendar,9,2175.343639516719,362,horizon
+Random Forest,calendar,10,2108.388970918133,362,horizon
+Random Forest,calendar,11,2192.8090137359127,362,horizon
+Random Forest,calendar,12,2147.140729786761,362,horizon
+Random Forest,calendar,13,2050.759163565994,362,horizon
+Random Forest,calendar,14,2073.089385793924,362,horizon
+Random Forest,calendar,15,2112.7414084649886,362,horizon
+Random Forest,calendar,16,2139.2157030593016,362,horizon
+Random Forest,calendar,17,2100.5767797322324,362,horizon
+Random Forest,calendar,18,2030.9228640490514,362,horizon
+Random Forest,calendar,19,1943.877627235207,362,horizon
+Random Forest,calendar,20,1822.125067319259,362,horizon
+Random Forest,calendar,21,1603.3464394347586,362,horizon
+Random Forest,calendar,22,1370.1026619958222,362,horizon
+Random Forest,calendar,23,1179.3238899264907,362,horizon
+Random Forest,calendar,24,1030.0825519291154,362,horizon
+Random Forest,history,1,826.9121997777115,362,horizon
+Random Forest,history,2,772.6973087854369,362,horizon
+Random Forest,history,3,777.364675348429,362,horizon
+Random Forest,history,4,835.0315551297145,362,horizon
+Random Forest,history,5,1126.2781313445103,362,horizon
+Random Forest,history,6,1620.9709231122217,362,horizon
+Random Forest,history,7,2128.7324935259644,362,horizon
+Random Forest,history,8,2201.7105476219235,362,horizon
+Random Forest,history,9,2134.7298466629277,362,horizon
+Random Forest,history,10,2031.4255046419794,362,horizon
+Random Forest,history,11,2084.495885781496,362,horizon
+Random Forest,history,12,2109.021581063925,362,horizon
+Random Forest,history,13,2006.7052710881233,362,horizon
+Random Forest,history,14,1917.9058416745463,362,horizon
+Random Forest,history,15,1995.990524296715,362,horizon
+Random Forest,history,16,2041.3568355963146,362,horizon
+Random Forest,history,17,2059.9080479862614,362,horizon
+Random Forest,history,18,1949.5608517405904,362,horizon
+Random Forest,history,19,1888.6009376832565,362,horizon
+Random Forest,history,20,1763.7466260467968,362,horizon
+Random Forest,history,21,1538.73326019631,362,horizon
+Random Forest,history,22,1180.1108346669384,362,horizon
+Random Forest,history,23,1035.000537737134,362,horizon
+Random Forest,history,24,920.3216441974909,362,horizon
+Random Forest,weather_oracle,1,838.7625908619807,362,horizon
+Random Forest,weather_oracle,2,789.1428064119349,362,horizon
+Random Forest,weather_oracle,3,782.7170236997822,362,horizon
+Random Forest,weather_oracle,4,846.4990815916872,362,horizon
+Random Forest,weather_oracle,5,1138.0802826111499,362,horizon
+Random Forest,weather_oracle,6,1665.8166984181612,362,horizon
+Random Forest,weather_oracle,7,2149.5783510444285,362,horizon
+Random Forest,weather_oracle,8,2219.4360897151296,362,horizon
+Random Forest,weather_oracle,9,2155.0834571289,362,horizon
+Random Forest,weather_oracle,10,2077.8395407272783,362,horizon
+Random Forest,weather_oracle,11,2112.415736228738,362,horizon
+Random Forest,weather_oracle,12,2143.3088433890107,362,horizon
+Random Forest,weather_oracle,13,2021.0077570524977,362,horizon
+Random Forest,weather_oracle,14,1952.0504661163243,362,horizon
+Random Forest,weather_oracle,15,2020.6932716260694,362,horizon
+Random Forest,weather_oracle,16,2067.1680477802265,362,horizon
+Random Forest,weather_oracle,17,2051.0039675287708,362,horizon
+Random Forest,weather_oracle,18,1976.7953498962202,362,horizon
+Random Forest,weather_oracle,19,1926.0760517589492,362,horizon
+Random Forest,weather_oracle,20,1814.6150902508898,362,horizon
+Random Forest,weather_oracle,21,1561.712246316342,362,horizon
+Random Forest,weather_oracle,22,1174.9724262819368,362,horizon
+Random Forest,weather_oracle,23,1036.9057141907126,362,horizon
+Random Forest,weather_oracle,24,946.0526369391284,362,horizon
+Random Forest,weather_past,1,846.4787320684762,362,horizon
+Random Forest,weather_past,2,787.8984299308511,362,horizon
+Random Forest,weather_past,3,788.2101025621915,362,horizon
+Random Forest,weather_past,4,857.822940747283,362,horizon
+Random Forest,weather_past,5,1168.2810618312071,362,horizon
+Random Forest,weather_past,6,1663.5155255235281,362,horizon
+Random Forest,weather_past,7,2176.376222266993,362,horizon
+Random Forest,weather_past,8,2213.5765747349315,362,horizon
+Random Forest,weather_past,9,2153.905294339565,362,horizon
+Random Forest,weather_past,10,2051.752491486043,362,horizon
+Random Forest,weather_past,11,2102.2347880724305,362,horizon
+Random Forest,weather_past,12,2148.638300367124,362,horizon
+Random Forest,weather_past,13,2030.6196014546122,362,horizon
+Random Forest,weather_past,14,1935.8093082321418,362,horizon
+Random Forest,weather_past,15,2017.6597127085886,362,horizon
+Random Forest,weather_past,16,2076.650060727142,362,horizon
+Random Forest,weather_past,17,2059.3055089552186,362,horizon
+Random Forest,weather_past,18,1955.0771363532165,362,horizon
+Random Forest,weather_past,19,1905.655324796984,362,horizon
+Random Forest,weather_past,20,1760.0026589470313,362,horizon
+Random Forest,weather_past,21,1534.6939775259668,362,horizon
+Random Forest,weather_past,22,1197.0831442394435,362,horizon
+Random Forest,weather_past,23,1034.729978185474,362,horizon
+Random Forest,weather_past,24,920.1255653058641,362,horizon
+Ridge,calendar,1,1236.7838342118619,362,horizon
+Ridge,calendar,2,1159.9649363628876,362,horizon
+Ridge,calendar,3,1136.8635661486721,362,horizon
+Ridge,calendar,4,1147.4804884242233,362,horizon
+Ridge,calendar,5,1475.755840096795,362,horizon
+Ridge,calendar,6,2357.7416281623714,362,horizon
+Ridge,calendar,7,2963.7814982494538,362,horizon
+Ridge,calendar,8,2963.0373926568977,362,horizon
+Ridge,calendar,9,2724.473208709409,362,horizon
+Ridge,calendar,10,2531.752594153628,362,horizon
+Ridge,calendar,11,2468.749035588767,362,horizon
+Ridge,calendar,12,2381.3023454457457,362,horizon
+Ridge,calendar,13,2285.2746807736357,362,horizon
+Ridge,calendar,14,2260.3181031528725,362,horizon
+Ridge,calendar,15,2387.5111146621985,362,horizon
+Ridge,calendar,16,2452.1915264506574,362,horizon
+Ridge,calendar,17,2466.7312320958163,362,horizon
+Ridge,calendar,18,2446.8751888820902,362,horizon
+Ridge,calendar,19,2520.4564612711333,362,horizon
+Ridge,calendar,20,2328.449005030956,362,horizon
+Ridge,calendar,21,1859.0867619904138,362,horizon
+Ridge,calendar,22,1527.8032431944357,362,horizon
+Ridge,calendar,23,1355.026447557012,362,horizon
+Ridge,calendar,24,1258.5012150344942,362,horizon
+Ridge,history,1,1097.9073118368526,362,horizon
+Ridge,history,2,1046.2111945380982,362,horizon
+Ridge,history,3,1027.8231410656244,362,horizon
+Ridge,history,4,1024.1330978869214,362,horizon
+Ridge,history,5,1334.371129474945,362,horizon
+Ridge,history,6,2174.9677621516244,362,horizon
+Ridge,history,7,2787.742304938797,362,horizon
+Ridge,history,8,2761.283293272647,362,horizon
+Ridge,history,9,2499.3356843055144,362,horizon
+Ridge,history,10,2308.2954806493535,362,horizon
+Ridge,history,11,2275.0197756005477,362,horizon
+Ridge,history,12,2183.6663254095497,362,horizon
+Ridge,history,13,2062.7047589579024,362,horizon
+Ridge,history,14,2052.840533436883,362,horizon
+Ridge,history,15,2203.2838297119847,362,horizon
+Ridge,history,16,2272.0144051325055,362,horizon
+Ridge,history,17,2251.9163318251994,362,horizon
+Ridge,history,18,2214.874816398331,362,horizon
+Ridge,history,19,2233.923799070746,362,horizon
+Ridge,history,20,2032.4353211822627,362,horizon
+Ridge,history,21,1578.9382104014262,362,horizon
+Ridge,history,22,1272.6778963598722,362,horizon
+Ridge,history,23,1177.239697771437,362,horizon
+Ridge,history,24,1139.4979598005207,362,horizon
+Ridge,weather_oracle,1,1122.4261473980525,362,horizon
+Ridge,weather_oracle,2,1085.0511840711167,362,horizon
+Ridge,weather_oracle,3,1073.389281635325,362,horizon
+Ridge,weather_oracle,4,1057.6839905558443,362,horizon
+Ridge,weather_oracle,5,1353.2213647949059,362,horizon
+Ridge,weather_oracle,6,2177.473471976124,362,horizon
+Ridge,weather_oracle,7,2768.6186725172815,362,horizon
+Ridge,weather_oracle,8,2748.4499488489378,362,horizon
+Ridge,weather_oracle,9,2488.466730789477,362,horizon
+Ridge,weather_oracle,10,2290.179772180432,362,horizon
+Ridge,weather_oracle,11,2253.290610704205,362,horizon
+Ridge,weather_oracle,12,2157.2198085460063,362,horizon
+Ridge,weather_oracle,13,2027.718643438281,362,horizon
+Ridge,weather_oracle,14,2011.9942991835758,362,horizon
+Ridge,weather_oracle,15,2162.54495215667,362,horizon
+Ridge,weather_oracle,16,2230.918240626484,362,horizon
+Ridge,weather_oracle,17,2210.2813609023024,362,horizon
+Ridge,weather_oracle,18,2205.3821953355828,362,horizon
+Ridge,weather_oracle,19,2260.2634680976894,362,horizon
+Ridge,weather_oracle,20,2045.761975682503,362,horizon
+Ridge,weather_oracle,21,1560.6576325997967,362,horizon
+Ridge,weather_oracle,22,1238.9691122870183,362,horizon
+Ridge,weather_oracle,23,1172.4663910648858,362,horizon
+Ridge,weather_oracle,24,1142.9308397530694,362,horizon
+Ridge,weather_past,1,1108.4906509714594,362,horizon
+Ridge,weather_past,2,1072.6734616821443,362,horizon
+Ridge,weather_past,3,1051.8366297022153,362,horizon
+Ridge,weather_past,4,1041.0145163953182,362,horizon
+Ridge,weather_past,5,1333.5258256551376,362,horizon
+Ridge,weather_past,6,2169.159222432834,362,horizon
+Ridge,weather_past,7,2764.3219907574708,362,horizon
+Ridge,weather_past,8,2748.6804636921397,362,horizon
+Ridge,weather_past,9,2480.9603705794952,362,horizon
+Ridge,weather_past,10,2294.302011851629,362,horizon
+Ridge,weather_past,11,2257.1384463101217,362,horizon
+Ridge,weather_past,12,2158.3631596161335,362,horizon
+Ridge,weather_past,13,2020.9865742380714,362,horizon
+Ridge,weather_past,14,2011.4432044754426,362,horizon
+Ridge,weather_past,15,2165.9925518848204,362,horizon
+Ridge,weather_past,16,2231.70537591011,362,horizon
+Ridge,weather_past,17,2212.2844087233098,362,horizon
+Ridge,weather_past,18,2206.3144727698586,362,horizon
+Ridge,weather_past,19,2266.4756358770546,362,horizon
+Ridge,weather_past,20,2039.4583012103121,362,horizon
+Ridge,weather_past,21,1550.3703028946131,362,horizon
+Ridge,weather_past,22,1233.5389619048947,362,horizon
+Ridge,weather_past,23,1156.7383071072402,362,horizon
+Ridge,weather_past,24,1131.8992025413852,362,horizon
+Seasonal Naive,history,1,1472.635359116022,362,horizon
+Seasonal Naive,history,2,1390.46408839779,362,horizon
+Seasonal Naive,history,3,1374.3867403314916,362,horizon
+Seasonal Naive,history,4,1424.0082872928176,362,horizon
+Seasonal Naive,history,5,1768.1049723756905,362,horizon
+Seasonal Naive,history,6,2671.1270718232045,362,horizon
+Seasonal Naive,history,7,3507.3922651933703,362,horizon
+Seasonal Naive,history,8,3712.6270718232045,362,horizon
+Seasonal Naive,history,9,3494.732044198895,362,horizon
+Seasonal Naive,history,10,3269.008287292818,362,horizon
+Seasonal Naive,history,11,3145.939226519337,362,horizon
+Seasonal Naive,history,12,3105.240331491713,362,horizon
+Seasonal Naive,history,13,3025.3314917127072,362,horizon
+Seasonal Naive,history,14,3032.46408839779,362,horizon
+Seasonal Naive,history,15,3187.1325966850827,362,horizon
+Seasonal Naive,history,16,3269.3701657458564,362,horizon
+Seasonal Naive,history,17,3274.204419889503,362,horizon
+Seasonal Naive,history,18,3288.1685082872928,362,horizon
+Seasonal Naive,history,19,3201.6381215469614,362,horizon
+Seasonal Naive,history,20,2880.265193370166,362,horizon
+Seasonal Naive,history,21,2489.9309392265195,362,horizon
+Seasonal Naive,history,22,2113.4116022099447,362,horizon
+Seasonal Naive,history,23,1832.0331491712707,362,horizon
+Seasonal Naive,history,24,1621.6961325966852,362,horizon

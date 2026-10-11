@@ -1,0 +1,34 @@
+{
+  "best_model": "CatBoost",
+  "best_scenario": "weather_past",
+  "selection": "Minimum validation MAE, excluding oracle; final refit on train + validation",
+  "validation_mae": 1638.2890808566992,
+  "test": {
+    "MAE": 1533.5425919048762,
+    "RMSE": 2293.7858771050255,
+    "MAPE": 5.247208953719024,
+    "sMAPE": 5.256223705688035
+  },
+  "bootstrap": {
+    "mae_difference_mw": -1114.4287478741292,
+    "lower_95": -1293.0851356440005,
+    "upper_95": -940.564581336185,
+    "days": 362
+  },
+  "split_hours": {
+    "train": 16872,
+    "validation": 8736,
+    "test": 8688
+  },
+  "split_days": {
+    "train": 703,
+    "validation": 364,
+    "test": 362
+  },
+  "excluded_hours": 768,
+  "shap_model": "CatBoost",
+  "shap_scenario": "weather_past",
+  "peak_mae_mw": 1746.9723891626627,
+  "peak_hour_mae": 2.3784530386740332,
+  "model_roundtrip_verified": true
+}
