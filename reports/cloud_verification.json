@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-11",
+  "url": "https://gridscope-electricity-forecasting.streamlit.app/",
+  "desktop": [
+    {
+      "page": "Прогноз",
+      "charts": 2,
+      "errors": 0,
+      "overflow": false,
+      "titles": [
+        "Следующие 24 часа"
+      ],
+      "width": 1440
+    },
+    {
+      "page": "Аналитика данных",
+      "charts": 4,
+      "errors": 0,
+      "overflow": false,
+      "titles": [
+        "Что движет нагрузкой"
+      ],
+      "width": 1440
+    },
+    {
+      "page": "Качество моделей",
+      "charts": 4,
+      "errors": 0,
+      "overflow": false,
+      "titles": [
+        "Результаты, которые можно проверить"
+      ],
+      "width": 1440
+    },
+    {
+      "page": "Интерпретация",
+      "charts": 3,
+      "errors": 0,
+      "overflow": false,
+      "titles": [
+        "Почему модель так прогнозирует"
+      ],
+      "width": 1440
+    },
+    {
+      "page": "О проекте",
+      "charts": 0,
+      "errors": 0,
+      "overflow": false,
+      "titles": [
+        "От данных к решению",
+        "Прогнозирование нагрузки электросистемы Испании"
+      ],
+      "width": 1440
+    },
+    {
+      "page": "Обзор",
+      "charts": 3,
+      "errors": 0,
+      "overflow": false,
+      "titles": [
+        "Нагрузка под контролем"
+      ],
+      "width": 1440
+    }
+  ],
+  "mobile": [
+    {
+      "page": "Прогноз",
+      "errors": 0,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "page": "Аналитика данных",
+      "errors": 0,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "page": "Качество моделей",
+      "errors": 0,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "page": "Интерпретация",
+      "errors": 0,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "page": "О проекте",
+      "errors": 0,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "page": "Обзор",
+      "errors": 0,
+      "overflow": false,
+      "width": 390
+    }
+  ],
+  "forecast_csv_rows": 24,
+  "native_prediction_max_difference_mw": 7.275957614183426e-12,
+  "full_cloud_reboot": true,
+  "python": "3.12.15",
+  "pyarrow": "24.0.0",
+  "training_on_startup": false
+}
