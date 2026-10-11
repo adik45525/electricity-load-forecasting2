@@ -22,5 +22,7 @@ publication/
 .cloud-check/
 reports/training.log
 reports/tests.log
+reports/*tests.log
 reports/kaggle_metadata.json
 models/*.pkl
+gridscope-publication.zip
