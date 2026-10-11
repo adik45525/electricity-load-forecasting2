@@ -12,7 +12,7 @@
 
 Для подготовки пакета: `python scripts/prepare_publication.py`. Он создаёт `publication/` с проверенным набором файлов и ZIP-архивом; `.venv`, кеши, секреты и остальные тяжёлые pickle-модели туда не входят. Файлы данных распространяются согласно [DATA_LICENSE.md](DATA_LICENSE.md), лицензия Kaggle — CC0.
 
-Инструкция и состояние развёртывания: [reports/deployment.md](reports/deployment.md).
+Проверены все шесть страниц, прогноз и CSV на 24 часа, SHAP, полный облачный перезапуск и мобильная ширина 390 px. Инструкция и результаты: [reports/deployment.md](reports/deployment.md).
 
 ## Быстрый запуск
 
